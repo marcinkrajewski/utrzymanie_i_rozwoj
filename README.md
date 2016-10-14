@@ -1,1 +1,1 @@
-# utrzymanie_i_rozwoj
+# utrzymanie_i_rozwoj [![Build Status](https://travis-ci.org/marcinkrajewski/utrzymanie_i_rozwoj.svg?branch=master)](https://travis-ci.org/marcinkrajewski/utrzymanie_i_rozwoj)
